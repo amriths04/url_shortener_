@@ -3,10 +3,8 @@
     <div class="container">
         <h1>URL Shortener</h1>
         <p>Welcome to the URL Shortener project! This application allows users to shorten long URLs into more manageable, shorter links. It's built with Node.js, Express, MongoDB, and EJS templating.</p>
-            <h2>Live Demo</h2>
-        <p><a href="#" target="_blank">Click here to see the live application</a> <!-- Replace `#` with your actual live link --></p>
           <h2>Screenshot</h2>
-        <img src="screenshot.png" alt="URL Shortener Screenshot" style="max-width: 100%; height: auto;"> <!-- Replace `screenshot.png` with the actual path to your screenshot -->
+        <img src="urlshortener.png" alt="URL Shortener Screenshot" style="max-width: 100%; height: auto;"> <!-- Replace `screenshot.png` with the actual path to your screenshot -->
         <h2>Features</h2>
         <ul>
             <li>Shorten long URLs into short, easy-to-share links.</li>
