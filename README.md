@@ -1,4 +1,3 @@
-
 </head>
 <body>
     <div class="container">
@@ -17,10 +16,13 @@
         <p>To run this project locally, follow these steps:</p>
         <ol>
             <li>Clone the repository:</li>
-            <pre><code>git clone https://github.com/your-username/url_shortener.git
+            <pre><code>git clone https://github.com/amriths_04/url_shortener.git
 cd url_shortener</code></pre> <!-- Replace the URL with your actual repository URL -->
             <li>Install dependencies:</li>
-            <pre><code>npm install</code></pre>
+            <pre><code>npm install express</code></pre>
+            <pre><code>npm install node</code></pre>
+            <pre><code>npm install mongodb</code></pre>
+            <pre><code>npm install ejs</code></pre>
             <li>Start the MongoDB server:</li>
             <pre><code>mongod</code></pre>
             <li>Run the application:</li>
