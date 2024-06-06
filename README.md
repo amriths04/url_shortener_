@@ -1,40 +1,4 @@
-  <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-        .container {
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 20px;
-            background-color: #fff;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1, h2 {
-            color: #333;
-        }
-        a {
-            color: #721817;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        ul {
-            list-style: none;
-            padding: 0;
-        }
-        ul li {
-            background: #e0e0e2;
-            margin: 10px 0;
-            padding: 10px;
-            border-radius: 4px;
-        }
-    </style>
+
 </head>
 <body>
     <div class="container">
@@ -76,10 +40,7 @@ cd url_shortener</code></pre> <!-- Replace the URL with your actual repository U
             <li>EJS</li>
             <li>HTML/CSS</li>
         </ul>
-        
-      
-        
-        <h2>License</h2>
+      <h2>License</h2>
         <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
     </div>
 </body>
